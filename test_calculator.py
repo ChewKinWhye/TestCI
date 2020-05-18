@@ -1,5 +1,6 @@
 import calculator
 
+
 class TestCalculator:
     def setup_class(self):
         print("setup_class called once for the class")
